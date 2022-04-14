@@ -7,7 +7,7 @@ This project was a great exercise to follow and to understand how things work:
 You can see the project live here: <a href="https://raulpop.ro/projects/countdown/" target=_blank>CountDown Timer</a>
 
 <h1>Updates?</h1>
-There probably will be minor changes for this project, like chaning the background image, or updating links. As I learn new things and get more confortable with writing my own code, I'll definitely change thinks around.
+There probably will be minor changes for this project, like changing the background image, or updating links. As I learn new things and get more confortable with writing my own code, I'll definitely change thinks around.
 
 Thanks to <a href="https://github.com/florinpop17" target=_blank>Florin Pop</a> for the video tutorials over YouTube :purple_heart:
 
